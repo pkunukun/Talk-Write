@@ -47,5 +47,5 @@ Technologies Used
 Please note that the chat application is intended for educational purposes and may require further optimization for production use.
 
 please login with the credentials as below:
-username:nitesh
-password:NiteshNishanth
+username:Prudvi
+password:Prudvi123
